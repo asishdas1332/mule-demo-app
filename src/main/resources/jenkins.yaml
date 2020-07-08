@@ -1,0 +1,7 @@
+mule:
+  version: "4.2.2"
+
+anypoint:
+  username: "ashishdas1332"
+  password: "@sisH1332"
+  environment:  "sandbox"
